@@ -1,0 +1,4 @@
+# Customer-360-degree-View-Dataset
+The customer 360 degree view dataset that I created consists of: total_orders, month of the order, day of the order, year of the order, total_products_category_sold which explains how much products in every category have been sold, delivery_time that the logistic partners need to finish an order, recency of every customer, frequency of order or every customer, monetary_value that every customer spent, total_products_sold_seller which explains the amount of products sold by every seller, percentage_freight which explains the percentage of freight cost to the total payment value, review_classification which comes from every review score from customers, and review_time which explains how long does every customer take to fill review survey.
+
+I also created some EDA and feature engineering to do some basic analysis of the data.
